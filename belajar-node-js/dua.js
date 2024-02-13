@@ -1,0 +1,1 @@
+console.log(window.cetakNama("Mochamad Raihan Sutisna"));
